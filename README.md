@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sivert Steinholt
-- 👀 I’m CS major
+- 👀 I’m a CS major
 - 🌱 I’m currently learning C, python and Javascript
 
 <!--- 📫 How to reach me ...
