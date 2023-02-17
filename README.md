@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sivert Steinholt
 - 👀 I’m a CS major
-- 🌱 I’m currently learning C, python and Javascript
+- 🌱 I’m currently learning C and Go
 
 <!--- 📫 How to reach me ...
 
